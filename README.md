@@ -124,11 +124,15 @@ ESP32-Touch-Piano/
 
 ---
 
-##  Author
+# Author
 
-AkTechh Solution
+## dev-atharvak (Atharva Kukade)
+Full Stack Developer | AI & Embedded Systems Enthusiast | Github: dev-atharvak (https://github.com/dev-atharvak)
 
-Custom Electronics Projects • Embedded Systems • Student Solutions
+## FOUNDER: AkTechh Solution
+### About AkTechh Solution
+
+*AkTechh Solution* is a student-led technology initiative focused on developing innovative software, IoT, embedded systems, automation, and academic engineering projects. Our goal is to create practical, affordable, and real-world technology solutions while helping students learn, build, and showcase engineering projects with modern tools and technologies.
 
 ---
 
